@@ -5,11 +5,11 @@
 
 # Public Safety Analytics Resource Compendium
 
-This resources on this site were prepared by yet2 and sponsored by NIST under contract number 80JSC017D0029.
+The compendium, linked below, was prepared by [yet2](https://www.yet2.com/) and sponsored by NIST's [Public Safety Communications Research Division](https://pscr.gov) under contract number 80JSC017D0029.
 
-NIST and yet2 do not endorse any of these resources or claim this compendium to be comprehensive. 
+NIST and yet2 do not endorse any of these resources or claim this compendium to be comprehensive.
 
-Access the compendium as an MS Excel workbook here. 
+Access the compendium as an MS Excel workbook here.
 
 The NIST PSCR program is seeking to identify open-source software frameworks, toolkits and algorithms, datasets, and standards/best practices that could assist in the development of AI-based analytic tools to support real-time analysis of streaming data from public safety communications and data streams that public safety officials must monitor to maintain situation awareness.
 
