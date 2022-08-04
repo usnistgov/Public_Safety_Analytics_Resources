@@ -2,6 +2,7 @@
 <script src="https://pages.nist.gov/nist-header-footer/js/jquery-1.9.0.min.js" type="text/javascript" defer="defer"></script>
 <script src="https://pages.nist.gov/nist-header-footer/js/nist-header-footer.js" type="text/javascript" defer="defer"></script>
 <title>Public Safety Analytics Resources</title>
+
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
 # Public Safety Analytics Resource Compendium
