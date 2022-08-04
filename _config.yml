@@ -5,7 +5,7 @@ baseurl: "/Public_Safety_Analytics_Resources" # the subpath of your site, e.g. /
 url: "https://pages.nist.gov/" # the base hostname & protocol for your site
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
 
 exclude:
 - ".ruby-version"
