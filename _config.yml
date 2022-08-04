@@ -1,7 +1,7 @@
 # Site settings
-title: Voting Methods Models
-description: "Voting Methods Models Working Group publication"
-baseurl: "/VotingMethods" # the subpath of your site, e.g. /blog
+title: Public Safety Analytics Resource Compendium
+description: "Links to and descriptions of analytics resources for public safety"
+baseurl: "/Public_Safety_Analytics_Resources" # the subpath of your site, e.g. /blog
 url: "https://pages.nist.gov/" # the base hostname & protocol for your site
 
 # Build settings
@@ -24,12 +24,12 @@ exclude:
 
 # GitHub information
 org_name: usnistgov
-repo_name: VotingMethods
+repo_name: Public_Safety_Analytics_Resources
 
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
 - text: Home
-  url: /VotingMethods/
+  url: /Public_Safety_Analytics_Resources/
 
 host: 0.0.0.0
