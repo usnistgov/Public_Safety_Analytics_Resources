@@ -1,6 +1,6 @@
-# Public Safety Analytics Resource Compendium 
+# Public Safety Analytics Resource Compendium
 
-This resources on this site were prepared by yet2 and sponsored by NIST under contract number 80JSC017D0029
+This resources on this site were prepared by yet2 and sponsored by NIST under contract number 80JSC017D0029.
 
 NIST and yet2 do not endorse any of these resources or claim this compendium to be comprehensive. See the Readme.txt file that accompanies this document.
 
