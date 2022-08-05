@@ -11,9 +11,15 @@ The compendium, linked below, was prepared by [yet2](https://www.yet2.com/) and 
 
 NIST and yet2 do not endorse any of these resources or claim this compendium to be comprehensive.
 
-Access the compendium as an MS Excel workbook here. -- COMING SOON!
+## Compendium Access
+
+[Access the compendium as an MS Excel workbook here.](https://github.com/usnistgov/Public_Safety_Analytics_Resources/raw/main/Compendium%20of%20Open%20Resources%20for%20Multimodal%20Emergency%20Awareness%20AI%20Analytics.xlsx) 
+
+## Contributions
 
 The NIST PSCR program is seeking to identify open-source software frameworks, toolkits and algorithms, datasets, and standards/best practices that could assist in the development of AI-based analytic tools to support real-time analysis of streaming data from public safety communications and data streams that public safety officials must monitor to maintain situation awareness.
+
+Please email gary.howarth@nist.gov or (open an Issue)[https://github.com/usnistgov/Public_Safety_Analytics_Resources/issues/new/choose] through Github to suggest contributions. 
 
 The types of AI software tools of interest support automated data analysis and span the following domains:
 - Natural language text processing
