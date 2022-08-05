@@ -19,7 +19,7 @@ NIST and yet2 do not endorse any of these resources or claim this compendium to 
 
 The NIST PSCR program is seeking to identify open-source software frameworks, toolkits and algorithms, datasets, and standards/best practices that could assist in the development of AI-based analytic tools to support real-time analysis of streaming data from public safety communications and data streams that public safety officials must monitor to maintain situation awareness.
 
-Please email gary.howarth@nist.gov or [open an Issue](https://github.com/usnistgov/Public_Safety_Analytics_Resources/issues/new/choose) through Github to suggest contributions.
+Please email gary.howarth@nist.gov or [open an Issue](https://github.com/usnistgov/Public_Safety_Analytics_Resources/issues/new/choose) through out Github site to suggest contributions.
 
 The types of AI software tools of interest support automated data analysis and span the following domains:
 - Natural language text processing
